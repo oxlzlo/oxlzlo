@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there 👋
+🐥 이제 막 시작한 병아리 개발자입니다. 🐥
 
 <!--
 **oxlzlo/oxlzlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
