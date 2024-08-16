@@ -1,8 +1,8 @@
 ## About Me
 🐥 병아리 개발자입니다 🐥
-- NEXTSTEP 프로그래밍 유치원 1기
+- NEXTSTEP : 프로그래밍 유치원 1기
 - 패스트캠퍼스 : 프론트엔드 개발 부트캠프 8기
-- TDD, 클린 코드 with JavaScript 6기
+- NEXTSTEP : TDD, 클린 코드 with JavaScript 6기
 
 <br/>
 
