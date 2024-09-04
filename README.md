@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="500" alt="무제" src="https://github.com/user-attachments/assets/4a98150b-aabc-499f-b0b7-7348e54f295c">
+ <img width="600" alt="무제" src="https://github.com/user-attachments/assets/c66b75cb-55c7-47c8-bc2d-1c4b715357d6">
+
 </div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foxlzlo&count_bg=%237A50D3&title_bg=%237E7E7E&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -12,7 +13,7 @@
 <br/>
 
 
-#### 📚 Studied in
+### 📚 Studied in
 - NEXTSTEP : 프로그래밍 유치원 1기
 - 패스트캠퍼스 : 프론트엔드 개발 부트캠프 8기
 - NEXTSTEP : TDD, 클린 코드 with JavaScript 6기
@@ -20,7 +21,7 @@
 <br/>
 
 
-#### 🌱 Currently Learning
+### 🌱 Currently Learning
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
