@@ -1,5 +1,11 @@
 ## About Me
-🐥 병아리 개발자입니다 🐥
+안녕하세요. 일상의 불편함을 해결하는 것에 관심이 많고 지식을 공유하여 함께 성장하는 것을 좋아하는, 프론트엔드 개발자입니다.  
+[YOUTHCON'24](https://frost-witch-afb.notion.site/YOUTHCON-24-49177aa1b828435f98046912c6debc78) 에서 **‘웹 접근성’** 에 대한 주제로 기술공유 발표를 한 경험도 있습니다. 이를 통해 적극적으로 지식을 공유하려고 노력합니다.
+
+<br/>
+
+
+#### 📚 Studied in
 - NEXTSTEP : 프로그래밍 유치원 1기
 - 패스트캠퍼스 : 프론트엔드 개발 부트캠프 8기
 - NEXTSTEP : TDD, 클린 코드 with JavaScript 6기
