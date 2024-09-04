@@ -1,3 +1,10 @@
+<div align="center">
+  <img width="500" alt="무제" src="https://github.com/user-attachments/assets/4a98150b-aabc-499f-b0b7-7348e54f295c">
+</div>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foxlzlo&count_bg=%237A50D3&title_bg=%237E7E7E&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 ## About Me
 안녕하세요. 일상의 불편함을 해결하는 것에 관심이 많고 지식을 공유하여 함께 성장하는 것을 좋아하는, 프론트엔드 개발자입니다.  
 [YOUTHCON'24](https://frost-witch-afb.notion.site/YOUTHCON-24-49177aa1b828435f98046912c6debc78) 에서 **‘웹 접근성’** 에 대한 주제로 기술공유 발표를 한 경험도 있습니다. 이를 통해 적극적으로 지식을 공유하려고 노력합니다.
