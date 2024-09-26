@@ -1,9 +1,8 @@
-<div align="center">
- <img width="600" alt="무제" src="https://github.com/user-attachments/assets/c66b75cb-55c7-47c8-bc2d-1c4b715357d6">
-
+<div align='center'>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=&customColorList=0,2,2,2,2,3gradient&text=Front-End%20Developer&fontColor=fff&fontSize=55&fontAlignY=45" />  
 </div>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foxlzlo&count_bg=%237A50D3&title_bg=%237E7E7E&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foxlzlo&count_bg=%23CB8AFF&title_bg=%23808080&icon=github.svg&icon_color=%23F3F3F3&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ## About Me
