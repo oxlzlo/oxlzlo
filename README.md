@@ -47,7 +47,13 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oxlzlo&layout=compact)
 -->
 
-
+<!--
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oxlzlo&show_icons=true&theme=buefy)
+-->
+<div align=center>
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/oxlzlo"/>
+  </a>
+</div>
